@@ -71,3 +71,5 @@ int gd = DETECT, gm;
     return 0; 
 }  
 
+//OUTPUT: For 100
+// https://drive.google.com/file/d/1YnessbpwSWsVexRnKjLfzwtyo5VLC0tY/view
